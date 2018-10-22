@@ -13,6 +13,16 @@ The dataset for this project originates from the UCI Machine Learning Repository
 
 # Installation
 
-Python version: 3.6.5 was used for this project
-Libraries used: numpy, pandas, seaborn, sklearn, matplotlib, warnings
-Jupyter Notebook is required
+- Python version: 3.6.5 was used for this project
+
+- Libraries used: numpy, pandas, time, display, seaborn, sklearn, matplotlib, warnings
+
+- Jupyter Notebook is required
+
+# Files
+
+- `finding_donors.ipynb`: The main Jupyter Notebook file
+
+- `census.csv`: The project dataset.
+
+- `visuals.py`: A Python file containing visualization code that is run behind-the-scenes.
