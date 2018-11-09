@@ -1,6 +1,5 @@
 # finding_donors
 A data science project that constructs a model that accurately predicts whether an individual is a potential charity donor.
-Key ML techniques: NLP, Supervised Learning (Classification)
 
 # Project Overview
 
